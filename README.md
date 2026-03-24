@@ -128,7 +128,7 @@ java PineappleCounter
 ## 7. 範例輸出（Example Output）
 
 ```
-Pineapple count: 48
+Pineapple count: 108
 ```
 
 實際結果會依圖片內容與門檻值不同而有所差異。
@@ -144,22 +144,4 @@ Pineapple count: 48
 - 使用固定除數（/20）可能不適用所有圖片
 - 無法自動學習新的圖片特徵
 
----
-
-## 9. 未來改進方向（Future Improvements）
-
-未來可以進一步改進的方向包括：
-
-- 加入垂直掃描（Vertical Scan）提高準確度
-- 使用自動門檻值（Adaptive Threshold）
-- 在圖片上畫出偵測到的鳳梨位置（畫圈）
-- 使用分群（Clustering）方法讓每顆鳳梨只計算一次
-
----
-
-## 10. 作者資訊（Author）
-
-學生作業（Student Project）
-
-課程名稱：Java 程式設計 / 影像處理（Java Programming / Image Processing）
 
